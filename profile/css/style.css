@@ -242,7 +242,7 @@ section{
 
  .portfolio-container{
     display: grid;
-    grid-template-columns: repeat(auto-fit, 32rem);
+    grid-template-columns: repeat(auto-fit, 35rem);
     justify-content: center;
     align-items: center;
     gap: 2.5rem;
